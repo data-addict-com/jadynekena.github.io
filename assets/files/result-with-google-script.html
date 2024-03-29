@@ -1,0 +1,16 @@
+<img alt="Embed solution result" height="100%" id="google_drive_image" src="">
+<script type="text/javascript">
+	async function main(){
+
+		//replace these variables with yours
+		const FILEID = '1IIIq6BgH2y9l4GdkVQ-ApTo7dZm4bzVW' 
+		const DEPLOYMENTID = 'AKfycbyVPoPf6YNXbFzX9lPHPvHvXLiRBzGQtYrr7kP_cgcs0e8EC1bEf7NfvUKJhZW0cxQ' 
+
+		//do not change this
+		const res = await fetch('https://script.google.com/macros/s/'+DEPLOYMENTID+'/exec?id='+FILEID)
+		const content = await res.text()
+		document.getElementById('google_drive_image').src = content
+	}
+
+	main()
+</script>

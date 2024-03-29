@@ -40,6 +40,10 @@ figure {
   padding: 0;
 }
 
+li p {
+  display: unset;
+}
+
 // Basic styling
 body {
   min-height: 100vh;
