@@ -3,8 +3,8 @@ layout: post
 title: How to embed any image from google drive into your website with this always-working solution [2024]
 description: Lately, Google made unexpected updates on embedding files from Google Drive. The images you embedded in your website are not working anymore ? This article will solve it in two possible ways, and I will explain them step by step.
 date:   2024-03-29 00-41-13 +0200
-categories: google drive url link script appscript embed image trick
-tags: google drive url link script appscript embed image trick
+categories: google drive url link script appscript google-appscripts embed image trick
+tags: google drive url link script appscript google-appscripts embed image trick
 published: true
 image: ../assets/img/2024-03-29/og-google-drive-image-embedded.png
 ---
