@@ -60,6 +60,10 @@ The **[Lebanese Civil War](https://en.wikipedia.org/wiki/Lebanese_Civil_War){:ta
 The **[Soviet–Afghan War](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War){:target="_blank"}** caused immense destruction, significant civilian casualties, and led to the rise of militant groups.
 ![Afghanistan](../assets/img/2024-06-23/afghanistan.png)
 
+## Kuwait in 1990
+The **[Gulf War](https://en.wikipedia.org/wiki/Gulf_War){:target="blank"}** involved Iraq's **[invasion of Kuwait](https://en.wikipedia.org/wiki/Gulf_War#Invasion_of_Kuwait){:target="_blank"}**, leading to a coalition-led liberation and extensive destruction.
+![Kuwait](../assets/img/2024-06-23/kuwait.png)
+
 ## Armenia in 1991
 The **[Nagorno-Karabakh Conflict](https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict){:target="_blank"}** led to a protracted war with Azerbaijan, causing many deaths and displacements.
 ![Armenia](../assets/img/2024-06-23/armenia.png)
@@ -75,10 +79,6 @@ The **[genocide against the Tutsi](https://en.wikipedia.org/wiki/Rwandan_genocid
 ## Djibouti in 1993
 The **[Djiboutian Civil war](https://en.wikipedia.org/wiki/Djiboutian_Civil_War){:target="_blank"}** caused significant strife, disrupting normal life and causing casualties and displacement. 
 ![Djibouti](../assets/img/2024-06-23/djibouti.png)
-
-## Kuwait in 1990
-The **[Gulf War](https://en.wikipedia.org/wiki/Gulf_War){:target="blank"}** involved Iraq's **[invasion of Kuwait](https://en.wikipedia.org/wiki/Gulf_War#Invasion_of_Kuwait){:target="_blank"}**, leading to a coalition-led liberation and extensive destruction.
-![Kuwait](../assets/img/2024-06-23/kuwait.png)
 
 ## Kosovo in 1997
 The **[Kosovo War](https://en.wikipedia.org/wiki/Kosovo_War){:target="blank"}** resulted in ethnic conflict, NATO intervention, and significant displacement and casualties.
