@@ -32,36 +32,6 @@ So for the rest of the article, the above territories are discarded.
 # 3. Insights : 15 facts about some countries of this world
 From now on, let's  see what kind of information we can retrieve from this demographic data.
 
-
-
-
-
-
-<!--
-
-
-## **Gulf War**
-
-
-## **Kosovo War**
-
-
-## **Libyan Civil War (2011)**
-
-
--->
-
-
-
-
-
-
-
-
-
-
-
-
 ## Ireland in 1840s
 **[The Great Famine](https://en.wikipedia.org/wiki/Great_Famine_(Ireland)){:target="_blank"}**, caused by potato blight, led to mass starvation, disease, and emigration, reducing Ireland's population by about 25%.
 ![Ireland](../assets/img/2024-06-23/ireland.png)
