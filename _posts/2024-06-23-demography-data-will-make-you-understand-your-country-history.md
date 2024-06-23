@@ -32,6 +32,10 @@ So for the rest of the article, the above territories are discarded.
 # 3. Insights : 15 facts about countries of this world
 From now on, let's  see what kind of information we can retrieve from this demographic data.
 
+## Ireland in 1840s
+**Great famine**
+![Ireland](../assets/img/2024-06-23/ireland.png)
+
 ## Hong Kong in 1940-1945
 **Battle of Hong Kong** to the **liberation of Hong Kong from Japanese occupation**
 ![Hong Kong](../assets/img/2024-06-23/hong-kong.png)
