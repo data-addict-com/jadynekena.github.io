@@ -64,8 +64,8 @@ link.remove();
 ```
 
 # Few explanations
-- Scrolling make all the data visible on the screen
-- Mapping over the whole list makes you have details of each contact :
+- Scrolling will make all the data visible on the screen
+- Mapping over the whole list will give you the details of each contact :
 	- the linkedin profile URL (with no additional parameters) ;
 	- the whole name, role and any public profile picture url
 	- the row number (the smallest the closest to your network)
