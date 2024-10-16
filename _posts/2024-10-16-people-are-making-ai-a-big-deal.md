@@ -30,7 +30,7 @@ AI is indeniably **time-saving tool** for anyone who knows how to use it properl
 - AI can actually be really helpful to **learn about a new topic**, but in my opinion **it should never be the only source of information** you should use. In schools and even at universities, students are now **suspected** to be using AI for their homeworks (even when they are just brilliant). 
 - To organize **vacation**, I can confirm you that AI is very powerful. It will give you the must-sees of your new destination, the itinerary from your hotel and the time it will take to go over there. TIME-SAVING, definitely. Be careful though : sometimes the details it gives are totally wrong, for example for the places I wanted to visit in Prague - lol.
 - As a dev or a data professionnal, AI has redefined **our work**. Some people use it to solve a tiny problem they're facing (instead of StackOverflow for example), and some other give the whole big problem to the AI directly. Personally, I'm still part of the first group of people.
-- Recently, I have heard about a french church that released a AI **related to faith/the Bible**: [hello bible](https://www.hellobible.ai/fr){:target="_blank"}. Honestly, I really doubt on the "AI" behind it because when I talked to it about something else than the Bible, it kept saying the same thing over and over again. Also, I find it problematic to base your personal faith on a machine response... But who am I to judge !
+- Recently, I have heard about a french church that released a AI **related to faith/the Bible**: [Hello Bible](https://www.hellobible.ai/fr){:target="_blank"}. Honestly, I really doubt on the "AI" behind it because when I talked to it about something else than the Bible, it kept saying the same thing over and over again. Also, I find it problematic to base your personal faith on a machine response... But who am I to judge !
 
 
 ## 2. On social media
@@ -50,15 +50,15 @@ Another intersting fact about those platforms: they intentionally collect users'
 
 
 ### Linkedin
-- People create linkedin posts using AI. They even sell the prompts that made them have the "perfect post for linkedin" (yeah)
-- A lot of companies have magically changed their core activity into AI-centered one
-- People keep talking about AI because it's a buzzword
+- People create **linkedin posts** using AI. They even sell the prompts that made them have the "perfect post for linkedin". (yeah)
+- A lot of companies have magically changed their **core activity** into AI-centered one. Or maybe the linkedin algorithm made them more visible on the platform, I don't know honestly.
+- People keep talking about AI because it's a **buzzword**. A magical black box that interests every single person.
 
 ## 3. In job offers
 I have seen so many problematic job offers (ofc not all of them), that might have one or more of the following statements:
-- Statistical skills become **neglected** compared to ai
-- **Technical buzz-words are over-used** for a very simple **task description**
-- Machine-oriented skills first, soft-skills maybe later
+- Statistical skills become **neglected** compared to AI
+- **Technical buzz-words** are over-used for a very **simple task description**
+- **Machine-oriented skills** first, soft-skills maybe later
 
 ## 4. In search engines
 Recent searches of keyword "AI"
@@ -69,7 +69,7 @@ Recent searches of keyword "AI"
 
 
 ## b) Output after training
-- Generative: contents like images, videos, texts, deepfake, voice-over
+- Generative : contents like images, videos, texts, deepfake, voice-over
 - Classification : 
 - Prediction :
 - Natural language processing (like chatGPT) :    
@@ -100,5 +100,5 @@ etc.
 - AI should be a helper, and **humans should ALWAYS be the one with the intelligence**. Society tends to make it the other way round, and it disturbs me.
 - People in the workforce are **making too much**. When I randomly scroll on linkedin, there is always this person who pretends to know everything about AI. **They solve ALL problems with AI, even the trivial ones**. They master the AI (while it doesn't always need supeversion...).
 
-To sum up, I'm really tired of this online **famechasing**, just by using trendy keywords.
+To sum up, I'm really tired of this overwhelming online hype. Yes, AI helps. Yes, AI is time-saving. Yes, AI is really cool. But please, if you read until this line : **don't use AI for every single problem that you face**. **Your brain also has intelligence**.
 
