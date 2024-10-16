@@ -69,16 +69,16 @@ Recent searches of keyword "AI"
 
 
 ## b) Output after training
-- Generative : contents like images, videos, texts, deepfake, voice-over
-- Classification : 
-- Prediction :
-- Natural language processing (like chatGPT) :    
+- **Generative** : contents like images, videos, texts, deepfake, voice-over
+- **Classification** : a mail is a spam or not, a handwriting is from this person or not, a photo is a cat or a dog or another animal, etc
+- **Prediction** : based on sales we know from the past 10 years, we can predict at 90% accuracy that next month we will have XXX$ of sales
+- **Natural language processing** : like chatGPT, it makes you feel like it understands the meaning of your words
 
 etc.
 
 # What AI is NOT (please read this)
 - if ... then ... else ...
-- an automated and reptitive task
+- an automated and repetitive task
 - a decision maker
 - a dashboard
 
@@ -86,9 +86,9 @@ etc.
 
 # Limits that AI may have
 - The **less data**, the **less relevant** results
-- **Wrong** training, **wrong results**
+- **Wrong** training, **wrong** results
 - Examples of **failing results** of AI
-	- chatGPT: Facts about youtubers and charity
+	- chatGPT: Facts about youtubers that made actions for charity
 	- (WIP)
 
 
@@ -96,5 +96,7 @@ etc.
 - AI should be a helper, and **humans should ALWAYS be the one with the intelligence**. Society tends to make it the other way round, and it disturbs me.
 - People in the workforce are **making too much**. When I randomly scroll on linkedin, there is always this person who pretends to know everything about AI. **They solve ALL problems with AI, even the trivial ones**. They master the AI (while it doesn't always need supeversion...).
 
-To sum up, I'm really tired of this overwhelming online hype. Yes, AI helps. Yes, AI is time-saving. Yes, AI is really cool. But please, if you read until this line : **don't use AI for every single problem that you face**. **Your brain also has intelligence**.
+To sum up, I'm really tired of this overwhelming online hype. Yes, AI helps. Yes, AI is time-saving. Yes, AI is really cool. **But people are making AI a big deal**.
+
+Please, if you read until this line : **don't use AI for every single problem that you face**. **Your brain also has intelligence**.
 
