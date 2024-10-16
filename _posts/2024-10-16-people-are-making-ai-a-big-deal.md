@@ -88,13 +88,17 @@ etc.
 - The **less data**, the **less relevant** results
 - **Wrong** training, **wrong** results
 - Examples of **failing results** of AI
-	- chatGPT: it creates fake web results on a topic (here is [an example I witnessed](https://chatgpt.com/share/67104613-d6c8-800d-8e10-b186d083e873){:target="_blank"}, in french) 
-	- 
+	- chatGPT created fake website results on a specific topic (here is [an example I witnessed](https://chatgpt.com/share/67104613-d6c8-800d-8e10-b186d083e873){:target="_blank"}, in french) 
+	- [McDonalds ordering disaster](https://oecd.ai/en/incidents/91533){:target="_blank"}
+	- [NYC’s AI Chatbot tells businesses to break the law](https://themarkup.org/news/2024/03/29/nycs-ai-chatbot-tells-businesses-to-break-the-law){:target="_blank"}
+	- [Healthcare algorithm failed to flag Black patients](https://www.scientificamerican.com/article/racial-bias-found-in-a-major-health-care-risk-algorithm/){:target="_blank"} (yeah how inconvenient)
 
+According to [OECD](https://oecd.ai/en/incidents?search_terms=%5B%5D&and_condition=false&from_date=2014-01-01&to_date=2024-10-16&properties_config=%7B%22principles%22:%5B%5D,%22industries%22:%5B%5D,%22harm_types%22:%5B%5D,%22harm_levels%22:%5B%5D,%22harmed_entities%22:%5B%5D%7D&only_threats=false&order_by=date&num_results=20){:target="_blank"}, there is so much reported AI incidents, more than ever :
+![ai incidents](../assets/img/2024-10-16/ai-incidents.png)
 
 # What cringes me the most
 - AI should be a helper, and **humans should ALWAYS be the one with the intelligence**. Society tends to make it the other way round, and it disturbs me.
-- People in the workforce are **making too much**. When I randomly scroll on linkedin, there is always this person who pretends to know everything about AI. **They solve ALL problems with AI, even the trivial ones**. They master the AI (while it doesn't always need supeversion...).
+- People in the workforce are **making too much**. When I randomly scroll on linkedin, there is always this person who pretends to know everything about AI. **They solve ALL problems with AI, even the trivial ones**. They master the AI (while it doesn't always need supervision...).
 
 To sum up, I'm really tired of this overwhelming online hype. Yes, AI helps. Yes, AI is time-saving. Yes, AI is really cool. **But people are making AI a big deal**.
 
