@@ -19,7 +19,7 @@ Who never heard about AI in 2024 ? Why is it so trendy nowadays ? Why do some co
 
 
 # Disclaimer
-This article is going to be less technical than usual. The whole content here is a **very personal point of view** and I don't pretend to have the absolute knowledge. Since chatGPT has been publicly launched in November 2022, I noticed a **very disturbing way of how people talk about AI in general**. In general, I will say "AI" for text-generator ones (in reference to chatGPT). Let's dive into it.    
+This article is going to be less technical than usual. The whole content here is a **very personal point of view** and I don't pretend to have the absolute knowledge. Since chatGPT has been publicly launched in November 2022, I noticed a **very disturbing way of how people talk about AI in general**. FYI, I will probably say "AI" for text-generator ones (in reference to chatGPT), but there is obviously more than that in this field. Let's dive into it.    
 > You might ask yourself - and you are totally right to do so : who am I to be a relevant perspective ? Well, I've been **working as a Data Analyst for 6+ years now**, and before that, I have spent 6 years in an engineering school (IT and telecommunications), and I learned how Deep Learning works in 2019 (3 years before it begun to be so trendy). I spent **almost the half of my life dedicated to IT**. And don't get me wrong: **I do use AI frequently** (as long as it can help), but I don't agree with the current hype on it.
 
 # How AI changed our daily lives
@@ -60,27 +60,27 @@ I have seen so many problematic job offers (ofc not all of them), that might hav
 - **Technical buzz-words** are over-used for a very **simple task description**
 - **Machine-oriented skills** first, soft-skills maybe later
 
-## 4. In search engines
-Recent searches of keyword "AI"
+## 4. Google searches
+According to [google trends data](https://trends.google.com/trends/explore?date=all&q=ai&hl=en){:target="_blank"}, AI has taken over google searches especially in late 2022. Interest kept being high since then.
+
+![google trends of "ai" worldwide all time](../assets/img/2024-10-16/google-trends.png)
 
 # How actually AI works in simple words
-## a) Training models with input data
-(WIP)
+First of all, **AI is not as intelligent as you may think**. It cannot think. It cannot solve problems itself. It just adapts itself into what humans are expecting it to do. It takes inputs and parameters (pure mathematical things), **trains** itself with that and **use** its "knowledge" to adapt to new situations. A trained AI is called a "**model**".
 
-
-## b) Output after training
-- **Generative** : contents like images, videos, texts, deepfake, voice-over
-- **Classification** : a mail is a spam or not, a handwriting is from this person or not, a photo is a cat or a dog or another animal, etc
-- **Prediction** : based on sales we know from the past 10 years, we can predict at 90% accuracy that next month we will have XXX$ of sales
-- **Natural language processing** : like chatGPT, it makes you feel like it understands the meaning of your words
+Here are few examples of final situations an AI can process :
+- **Content generation** : images, videos (like deepfakes), texts, voices, etc
+- **Classification** : a mail is a spam or not, a handwriting is from this person or not, a photo is a cat or a dog or another animal, an X-rays image shows up a cancer or not, etc
+- **Prediction** : based on sales we know from the past 10 years, we can predict at 90% accuracy that next month we will make XXX$ of sales
+- **Natural language processing** : like chatGPT, it makes you feel like it understands the meaning of your words, and can have a conversation with you
 
 etc.
 
 # What AI is NOT (please read this)
-- if ... then ... else ...
-- an automated and repetitive task
-- a decision maker
-- a dashboard
+- **Conditional statements** (```if ... then ... else ...```)
+- An **automated** and **repetitive task**
+- A **decision maker**
+- A **dashboard**
 
 ... and the list goes on !
 
@@ -88,8 +88,8 @@ etc.
 - The **less data**, the **less relevant** results
 - **Wrong** training, **wrong** results
 - Examples of **failing results** of AI
-	- chatGPT: Facts about youtubers that made actions for charity
-	- (WIP)
+	- chatGPT: it creates fake web results on a topic (here is [an example I witnessed](https://chatgpt.com/share/67104613-d6c8-800d-8e10-b186d083e873){:target="_blank"}, in french) 
+	- 
 
 
 # What cringes me the most
